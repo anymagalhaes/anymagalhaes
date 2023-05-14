@@ -1,4 +1,4 @@
-## Meus resultados abaixo 😗
+## Confira meus resultados abaixo! 👩‍💻
 
  <div>
    <a href="https://github.com/anymagalhaes">
