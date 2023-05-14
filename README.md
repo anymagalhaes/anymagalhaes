@@ -1,4 +1,4 @@
-## Oi! Sou a Any 😗
+## Meus resultados abaixo 😗
 
  <div>
    <a href="https://github.com/anymagalhaes">
