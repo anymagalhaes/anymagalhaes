@@ -20,7 +20,7 @@
 
 <div align="left" style="display: flex; justify-content: left;">
   <a href="https://github.com/anymagalhaes">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=anymagalhaes&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+    <img height="195px" align="center" src="https://github-readme-stats.vercel.app/api?username=anymagalhaes&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
 </div>
     
 ### Contato
