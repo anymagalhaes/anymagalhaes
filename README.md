@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A392BD&width=435&lines=Olá%2C+a+todos!+Sou+Stefany.;Bem+Vindos+ao+meu+Github!+)](https://git.io/typing-svg)
 
-<img src="https://s1.gifyu.com/images/SBGlh.gif" alt="Pixel Art" align="right" width="300">
+<img src="https://s1.gifyu.com/images/SBGlh.gif" alt="Pixel Art" align="center" width="500">
 
 ### Ferramentas e Tecnologias:
 
@@ -20,7 +20,7 @@
 
 <div align="left" style="display: flex; justify-content: left;">
   <a href="https://github.com/anymagalhaes">
-    <img height="195px" align="center" src="https://github-readme-stats.vercel.app/api?username=anymagalhaes&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=anymagalhaes&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
 </div>
     
 ### Contato
