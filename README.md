@@ -16,10 +16,12 @@
 
 ### GitHub Status
 
-<div align="left" style="display: flex; justify-content: left;">
-  <a href="https://github.com/anymagalhaes">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=anymagalhaes&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anymagalhaes/anymagalhaes/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anymagalhaes/anymagalhaes/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anymagalhaes/anymagalhaes/output/pacman-contribution-graph.svg">
+</picture>
+
     
 ### Contato
 
