@@ -1,21 +1,31 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A392BD&width=435&lines=Olá!;Bem+Vindos+ao+meu+Github!+)](https://git.io/typing-svg)
+Me chamo Stefany, sou `Desenvolvedora FullStack` e moro no Rio de Janeiro. Atualmente, estou cursando Ciência da Computaração na [Unicarioca](https://unicarioca.edu.br/) e buscando uma vaga junior.
 
 <img src="https://i.pinimg.com/originals/41/85/84/418584e1566e9536a8cc76d53b92fd1d.gif" alt="Pixel Art" align="center" width="500">
 
+---
 ### Ferramentas e Tecnologias:
 
 <div style="display: inline_block"><br>
+
+  <img align="center" alt="HTML" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="PY" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="MongoDB" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="PowerBI" height="35" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg">
   <img align="center" alt="VSCode" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Git" height="35" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
+  <img align="center" alt="Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   <img align="center" alt="Notion" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg">
   
           
 
 
 </div><br>
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anymagalhaes&theme=tokyonight&layout=compact&custom_title=Tecnologias)](https://github.com/anymagalhaes/github-readme-stats)
+
 
 ### GitHub Status
 
