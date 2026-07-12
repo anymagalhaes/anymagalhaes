@@ -24,7 +24,6 @@ Me chamo Stefany, sou `Desenvolvedora FullStack` e moro no Rio de Janeiro. Atual
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anymagalhaes&theme=tokyonight&layout=compact&custom_title=Tecnologias)](https://github.com/anymagalhaes/github-readme-stats)
 
 
 ### GitHub Status
